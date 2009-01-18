@@ -1,0 +1,6 @@
+#define OASIS_RCVUCODE_VERS_STRING	"1.2"
+#define OASIS_RCVUCODE_VERS_DATE  	"2006/03/27 15:10:28"
+
+static u32 OasisRcvUCodeLen = 512;
+
+/*(DEBLOBBED)*/
