@@ -1,0 +1,19 @@
+-----BEGIN PGP SIGNATURE-----
+Comment: This signature is for the .tar version of the archive
+Comment: git archive --format tar --prefix=deblob-4.15-rc9-gnu/ deblob-4.15-rc9-gnu
+Comment: git version 2.20.1
+
+iQIcBAABCgAGBQJcTlsUAAoJEJ0NsxtUWjGYMtkQALENXqpKB679TgXG4/6WL5Jv
+pTkD0IbIUxSl3FzGqadAX75PtTqzdaD6HXiA6qPdgwjfYOFIg0fb8e5fmO+Ood5o
+No9ZjMwVnt5oIiy6H5jVqQM1AHgyz+nLSuRwfpARCngK3cW2jodLhOE7oZq34p9x
+S0yQTBQ5oa/SRDqhyYp+0LpYoePSTNkTB9zsR6rQ8a0c/OtC8a7X7KPeJlDtZyIe
+k3fRCDtbgzOPvjxivrfLUsczCqruHeV/fiXUTMO/bc1xpqNgooNPvYm4r0T9aB/4
+3IbxIEo3NMydO4FWReLjroDsScErrKoC2U9Va+N8vYyEAKugrV2ZNntN5yCpT0zH
+pvw3UoEa9oI28p+zmaUK6k8+7UmteNwIG0SVV2xtM7CbAJFE8k6bMYyUoNDmny2T
+iTLtPGRU4fLWQLgikiwxRZKDBDtdFDAx9QZNKYC1CtiqUf2D/D7hBbdmGHiPgSdK
+zGVzvuGpJXX2Kx7YLjWIsXerhxyuMsuyBU4MzYtjsVscU1adu3ngXGoBCokXq7dS
+I2Th2IXIpBBVeLLMwzuqn0H7yXlexRbbHuWC0bK8+TzaWX30nG4Rrjrg+MvXBxO9
+zph1k1mGEQIasnF46awojpSgXgjlUPEihslZBNX6PjuiFSVVM80mn0TdGSB/BnAD
+C/1I0sDynuEd1PoBT+xB
+=pklA
+-----END PGP SIGNATURE-----
